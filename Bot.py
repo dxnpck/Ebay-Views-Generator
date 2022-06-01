@@ -1,7 +1,7 @@
 import requests, time, threading
 
-num_of_views = int(input('Enter the amount of views you would like to generate: '))
-ebay_link = input('Enter Item Link: ')
+num_of_views = int(input('Enter the amount of views you would like to generate: 128'))
+ebay_link = input('Enter Item Link:http://ebay.us/hIx1Yy?cmpnId=5338273189')
 
 start_time = time.time()
 
